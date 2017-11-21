@@ -1,4 +1,5 @@
 import sys
 
 file_text = ""
-print('hello '+ input("Enter text: "))
+print ( 'hello ' + input ( "Enter text: " ) )
+
